@@ -11,5 +11,5 @@ which is assumed to be deployed via AWS EC2.
 
 ## Deploying to AWS EC2
 
-See the included [EC 2 set-up guide](ec2_setup.md) for a comprehensive walk-through
+See the included [EC 2 set-up guide](ec2-setup.md) for a comprehensive walk-through
 of how to set-up an example app on EC 2.
